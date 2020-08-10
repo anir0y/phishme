@@ -19,7 +19,7 @@ from core.view import *
 from zipfile import ZipFile
 from subprocess import check_output
 
-def connected(host='http://duckduckgo.com'):
+def connected(host='http://anir0y.in'):
     try:
         urlopen(host)
         return True

@@ -40,36 +40,27 @@ def ngrokNot():
 def head():
     clear()
     print(bold(cyan('''
- /\___/\
-   (  o o  )
-   /   *   \
-   \__\_/__/  @anir0y!
-     /   \
-    / ___ \
-    \/___\/
+    ^⨀ᴥ⨀^ @anir0y
+    
+    
                            ''')))
 
 def end():
     clear()
     print(cyan('''
-                   Phish ME 
-              |\    \ \ \ \ \ \ \      __           ___
-              |  \    \ \ \ \ \ \ \   | O~-_    _-~~   ~~-_
-              |   >----|-|-|-|-|-|-|--|  __/   /   DON'T   )
-              |  /    / / / / / / /   |__\   <     FORGET   )
-              |/     / / / / / / /             \_   ME !  _)
-                          Bye Bye                ~--___--~
-
+    ┬┴┬┴┤･ω･)ﾉ├┬┴┬┴
+                   Phish ME
+                   says : Bye Bye
 '''))
 
 
 def loadModule(module):
     print(cyan('''
-   _.-=-._     .-,     THIS IS NOT A JOKE!
- .'       "-.,' /  MISUSE OF THIS TOOL RESULTS 
-(          _.  <          IN CRIME!
- `=.____.="  `._\\  AND THE RESPONSIBILITY IS
-                         ONLY YOURS.
+THIS IS NOT A JOKE!
+MISUSE OF THIS TOOL RESULTS 
+IN CRIME!
+AND THE RESPONSIBILITY IS
+ONLY YOURS.
                        
  [*] %s module loaded. Building site...'''  % module))
 
@@ -77,7 +68,7 @@ def checkEd():
 
     if input(red(' [!] Do you agree to use this tool for educational purposes only? [y/N] > ')).upper() != 'Y':
         clear()
-        print(red('\n[ YOU ARE NOT AUTHORIZED TO USE THIS TOOL ]\n'))
+        print(red('\n[ YOU baddy, select Yes, or I won\'t let you use this tool ]\n'))
         exit(0)
 
 def checkmail():
