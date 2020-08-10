@@ -22,7 +22,7 @@
 
 
 #### you're lazy too??? read this. 
-well, I'm lazy so I created a script that automate pretty much all, once you git clone this, 
+well, I'm lazy so I created a script that automate pretty much all, once you git clone this, only works wiht LINUX OS, for Windows magic.sh won't work!
 run 
 ``` bash
 chmod +x magic.sh && bash magic.sh 
