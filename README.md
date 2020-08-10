@@ -22,7 +22,9 @@
 
 
 #### you're lazy too??? read this. 
-well, I'm lazy so I created a script that automate pretty much all, once you git clone this, only works wiht LINUX OS, for Windows magic.sh won't work!
+well, I'm lazy so I created a script that automate pretty much all, once you git clone this, only works wiht LINUX OS, 
+
+for Windows magic.sh won't work! ![](http://www.reactiongifs.com/wp-content/uploads/2013/07/running.gif)
 run 
 ``` bash
 chmod +x magic.sh && bash magic.sh 
