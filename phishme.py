@@ -2,20 +2,20 @@
 
 ######################################################
 #                                                    #
-#       SOCIALFISH v2.0sharkNet                      #
+#       PHISHME ALPHA 1                              #
 #                                                    #
-# by:     UNDEADSEC                                  #
+# by:     ANIR0Y                                     #
 #                                                    #
-# Telegram Group: https://t.me/UndeadSec             #
-# YouTube Channel: https://youtube.com/c/UndeadSec   #
-# Twitter: https://twitter.com/A1S0N_                #
+# Telegram Group: https://t.me/anir0y                #
+# YouTube Channel: https://youtube.com/c/arishtilive #
+# Twitter: https://twitter.com/anir0y                #
 #                                                    #
 ######################################################
 
 from sys import exit, version_info
 
 if version_info<(3,0,0):
-    print('[!] Please use Python 3. $ python3 SocialFish.py')
+    print('[!] Please use Python 3. $ python3 phishme.py')
     exit(0)
 
 from multiprocessing import Process
