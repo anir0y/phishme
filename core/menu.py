@@ -19,7 +19,7 @@ menu_sites = {
 	}
 }
 
-SF_PROMPT = cyan(" SF > ")
+SF_PROMPT = cyan(" Phishme > ")
 
 def colorize_option(chave, valor):
 	'''
