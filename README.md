@@ -1,10 +1,10 @@
 <h2 align="center">Phishme</h2>
 
-
 #### Stats
 [![HitCount](http://hits.dwyl.com/anir0y/phishme.svg)](http://hits.dwyl.com/anir0y/phishme)
 [![Known Vulnerabilities](https://snyk.io/test/github/anir0y/phishme/badge.svg?targetFile=requirements.txt)](https://snyk.io/test/github/anir0y/phishme?targetFile=requirements.txt)
-</center>
+
+---
 
 ##### PREREQUISITES
 
