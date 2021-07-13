@@ -29,6 +29,7 @@ well, I'm lazy so I created a script that automate pretty much all, once you git
 
 for Windows magic.sh won't work! ![](http://www.reactiongifs.com/wp-content/uploads/2013/07/running.gif)
 
+
 #### Linux user run this:
 ``` bash
 chmod +x magic.sh && bash magic.sh 
