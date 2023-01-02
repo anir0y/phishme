@@ -1,10 +1,8 @@
-<h2 align="center">Phishme</h2>
-
-
+![Imgur](https://i.imgur.com/tPXXQOl.png)
 
 ---
 
-##### PREREQUISITES
+## PREREQUISITES
 
 * Python 3.x 
 * pip3
@@ -13,12 +11,12 @@
 * git
 * unzip
 
-##### PYTHON 3 PREREQUISITES
+### PYTHON 3 PREREQUISITES
 - wget
 - huepy
 
 
-#### How to use 
+### How to use 
 
 - How to install [YouTube part I ](https://youtu.be/SbSnt-VmvIw)
 - how to use [YouTube Part II](https://youtu.be/Xcy36kCGFqQ)
@@ -30,15 +28,15 @@ well, I'm lazy so I created a script that automate pretty much all, once you git
 for Windows magic.sh won't work! ![](http://www.reactiongifs.com/wp-content/uploads/2013/07/running.gif)
 
 
-#### Linux user run this:
+### Linux user run this:
 ``` bash
 chmod +x magic.sh && bash magic.sh 
 ```
 it will do the rest, make sure you're running this as root. 
 
 ---
-#### PRs are welcome
-#### contact me : classroom@anir0y.in 
+### PRs are welcome
+### contact me : [@anir0y](https://twitter.com/anir0y)
 
 #### this is copy paste Project, inspired by @undeadsec (sharknet) 
 ---
