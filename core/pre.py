@@ -19,7 +19,7 @@ from core.view import *
 from zipfile import ZipFile
 from subprocess import check_output
 
-def connected(host='http://anir0y.in'):
+def connected(host='https://anir0y.in'):
     try:
         urlopen(host)
         return True
@@ -41,7 +41,8 @@ def checkNgrok():
                 filename = 'ngrok-stable-{0}-amd64.zip'.format(ostype)
             else:
                 filename = 'ngrok-stable-{0}-386.zip'.format(ostype)
-        url = 'https://bin.equinox.io/c/4VmDzA7iaHb/' + filename
+        url = 'https://bin.equinox.io/c/bNyj1mQVY4c/' + filename
+        # https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz # latest version
         download(url)
         unzip(filename, 'base/Server/')
         remove(filename)
